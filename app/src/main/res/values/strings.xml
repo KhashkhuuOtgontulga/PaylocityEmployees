@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Paylocity Employees</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+</resources>
